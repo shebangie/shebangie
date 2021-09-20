@@ -2,7 +2,7 @@
 - 👀 I’m interested in begining a career in software development.
 - 🌱 I’m currently a complete newbie, so I'm still learning the fundamentals!
 - 💞️ I’m looking to learn as much as I can with the help of this community.
-- 📫 How to reach me, shoot me a message on here or reach out to me on<a href="https://twitter.com/shebangie"> Twitter.Any help would be greately appreciated 😉
+- 📫 How to reach me, shoot me a message on here or reach out to me on <a href="https://twitter.com/shebangie"> Twitter</a>.Any help would be greately appreciated 😉
 
 <!---
 shebangie/shebangie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
